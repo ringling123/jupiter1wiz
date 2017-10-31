@@ -51,14 +51,14 @@
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
         <extension point="xbmc.addon.repository" name="Jupiter One">
-            <info compressed="false">http://onlinetvez.000webhostapp.com/_repo/addons.xml</info>
-            <checksum>http://onlinetvez.000webhostapp.com/_repo/addons.xml.md5</checksum>
-            <datadir zip="true">http://onlinetvez.000webhostapp.com/_repo/</datadir>
+            <info compressed="false">https://github.com/ringling123/jupiter1wiz/blob/master/_repo/addons.xml</info>
+            <checksum>https://github.com/ringling123/jupiter1wiz/blob/master/_repo/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/ringling123/jupiter1wiz/blob/master/_repo/</datadir>
             <hashes>false</hashes>
         </extension>
         <extension point="xbmc.addon.metadata">
             <summary>Jupiter One Build Wizard</summary>
-            <description>Jupiter One Repository contains the Jupiter One build and other builds</description>
+            <description>Jupiter One Repository contains the Jupiter One Wizard for the installation of all Kodi4 builds.</description>
             <platform>all</platform>
     </extension>
 </addon>
