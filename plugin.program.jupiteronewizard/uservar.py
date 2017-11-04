@@ -5,21 +5,21 @@ import os, xbmc, xbmcaddon
 #########################################################
 ADDON_ID       = xbmcaddon.Addon().getAddonInfo('id')
 ADDONTITLE     = 'JupiterOne Wizard'
-EXCLUDES       = [ADDON_ID, 'repository.jupiterone', 'plugin.program.jupiteronewizard']
+EXCLUDES       = [ADDON_ID, 'repository.jupiter1wiz', 'plugin.program.jupiteronewizard']
 # Text File with build info in it.
-BUILDFILE      = 'http://onlinetvez.000webhostapp.com/jupiter1wiz/texts/wizard.txt'
+BUILDFILE      = 'http://classicmoviesez.com/config/texts/wizard.txt'
 # How often you would list it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK    = 0
 # Text File with apk info in it.
-APKFILE        = 'http://'
+APKFILE        = 'http://classicmoviesez.com/config/texts/apk.txt'
 # Text File with Youtube Videos urls.  Leave as 'http://' to ignore
-YOUTUBETITLE   = 'http://'
+YOUTUBETITLE   = ''
 YOUTUBEFILE    = 'http://'
 # Text File for addon installer.  Leave as 'http://' to ignore
 ADDONFILE      = 'http://'
 # Text File for advanced settings.  Leave as 'http://' to ignore
-ADVANCEDFILE   = 'http://onlinetvez.000webhostapp.com/jupiter1wiz/texts/advanced.txt'
+ADVANCEDFILE   = 'http://classicmoviesez.com/config/texts/advanced.txt'
 
 # Dont need to edit just here for icons stored locally
 PATH           = xbmcaddon.Addon().getAddonInfo('path')
@@ -34,17 +34,17 @@ ART            = os.path.join(PATH, 'resources', 'art')
 # Example:  ICONMAINT     = os.path.join(ART, 'mainticon.png')
 #           ICONSETTINGS  = 'http://aftermathwizard.net/repo/wizard/settings.png'
 # Leave as http:// for default icon
-ICONBUILDS     = 'http://onlinetvez.000webhostapp.com/jupiter1wiz/images/builds.png'
-ICONMAINT      = 'http://onlinetvez.000webhostapp.com/jupiter1wiz/images/maintenance.png'
-ICONAPK        = 'http://onlinetvez.000webhostapp.com/jupiter1wiz/images/apk.png'
-ICONADDONS     = 'http://onlinetvez.000webhostapp.com/jupiter1wiz/images/addons.png'
-ICONYOUTUBE    = 'http://onlinetvez.000webhostapp.com/jupiter1wiz/images/youtube.png'
-ICONSAVE       = 'http://onlinetvez.000webhostapp.com/jupiter1wiz/images/save.png'
-ICONTRAKT      = 'http://onlinetvez.000webhostapp.com/jupiter1wiz/images/trakt.png'
-ICONREAL       = 'http://onlinetvez.000webhostapp.com/jupiter1wiz/images/debrid.png'
-ICONLOGIN      = 'http://onlinetvez.000webhostapp.com/jupiter1wiz/images/login.png'
-ICONCONTACT    = 'http://onlinetvez.000webhostapp.com/jupiter1wiz/images/contact.png'
-ICONSETTINGS   = 'http://onlinetvez.000webhostapp.com/jupiter1wiz/images/setting.png'
+ICONBUILDS     = 'http://classicmoviesez.com/config/images/builds.png'
+ICONMAINT      = 'http://classicmoviesez.com/config/images/maintenance.png'
+ICONAPK        = 'http://classicmoviesez.com/config/images/apk.png'
+ICONADDONS     = 'http://classicmoviesez.com/config/images/addons.png'
+ICONYOUTUBE    = 'http://classicmoviesez.com/config/images/youtube.png'
+ICONSAVE       = 'http://classicmoviesez.com/config/images/save.png'
+ICONTRAKT      = 'http://classicmoviesez.com/config/images/trakt.png'
+ICONREAL       = 'http://classicmoviesez.com/config/images/debrid.png'
+ICONLOGIN      = 'http://classicmoviesez.com/config/images/login.png'
+ICONCONTACT    = 'http://classicmoviesez.com/config/images/contact.png'
+ICONSETTINGS   = 'http://classicmoviesez.com/config/images/setting.png'
 # Hide the ====== seperators 'Yes' or 'No'
 HIDESPACERS    = 'No'
 # Character used in seperator
@@ -67,9 +67,9 @@ THEME5         = '[COLOR '+COLOR1+']Current Theme:[/COLOR] [COLOR '+COLOR2+']%s[
 
 # Message for Contact Page
 # Enable 'Contact' menu item 'Yes' hide or 'No' dont hide
-HIDECONTACT    = 'Yes'
+HIDECONTACT    = 'No'
 # You can add \n to do line breaks
-CONTACT        = ''
+CONTACT        = 'Thank you for choosing Aftermath Wizard.\r\n\r\nContact us on facebook at http://facebook.com'
 #Images used for the contact window.  http:// for default icon and fanart
 CONTACTICON    = 'http://'
 CONTACTFANART  = 'http://'
@@ -90,11 +90,11 @@ WIZARDFILE     = ''
 # Enable Auto Install 'Yes' or 'No'
 AUTOINSTALL    = 'Yes'
 # Addon ID for the repository
-REPOID         = 'repository.jupiterone'
+REPOID         = 'repository.jupiter1wiz'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
-REPOADDONXML   = 'http://onlinetvez.000webhostapp.com/_repo/repository.jupiterone/addon.xml'
+REPOADDONXML   = 'https://raw.githubusercontent.com/ringling123/jupiter1wiz/master/_repo/addons.xml'
 # Url to folder zip is located in
-REPOZIPURL     = 'http://onlinetvez.000webhostapp.com/_repo/repository.jupiterone/'
+REPOZIPURL     = 'https://raw.githubusercontent.com/ringling123/jupiter1wiz/master/_repo/repository.jupiter1wiz/'
 #########################################################
 
 #########################################################
@@ -103,12 +103,12 @@ REPOZIPURL     = 'http://onlinetvez.000webhostapp.com/_repo/repository.jupiteron
 # Enable Notification screen Yes or No
 ENABLE         = 'Yes'
 # Url to notification file
-NOTIFICATION   = 'http://onlinetvez.000webhostapp.com/jupiter1wiz/texts/notify.txt'
+NOTIFICATION   = 'http://classicmoviesez.com/config/texts/notify.txt'
 # Use either 'Text' or 'Image'
 HEADERTYPE     = 'Image'
-HEADERMESSAGE  = ''
+HEADERMESSAGE  = 'JupiterOne Notifications'
 # url to image if using Image 424x180
-HEADERIMAGE    = 'http://onlinetvez.000webhostapp.com/jupiter1wiz/images/jupiterlogo.jpg'
+HEADERIMAGE    = ''
 # Background for Notification Window
-BACKGROUND     = 'http://onlinetvez.000webhostapp.com/jupiter1wiz/images/notifyback.jpg'
+BACKGROUND     = 'http://classicmoviesez.com/config/images/notifyback.jpg'
 #########################################################
