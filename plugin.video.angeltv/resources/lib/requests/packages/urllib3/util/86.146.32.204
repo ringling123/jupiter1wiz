@@ -1,0 +1,232 @@
+﻿09:30:14.791 T:12964  NOTICE: special://profile/ is mapped to: special://masterprofile/
+09:30:14.791 T:12964  NOTICE: -----------------------------------------------------------------------
+09:30:14.791 T:12964  NOTICE: Starting Kodi (17.1 Git:20170320-fc1619b). Platform: Windows NT x86 32-bit
+09:30:14.791 T:12964  NOTICE: Using Release Kodi x32 build
+09:30:14.791 T:12964  NOTICE: Kodi compiled Mar 20 2017 by MSVC 190024215 for Windows NT x86 32-bit version 10.0 (0x0A000000)
+09:30:14.791 T:12964  NOTICE: Running on Dell Inc. Studio 540 with Windows 10, kernel: Windows NT x86 64-bit version 10.0
+09:30:14.792 T:12964  NOTICE: FFmpeg version/source: ffmpeg-3.1-kodi
+09:30:14.792 T:12964  NOTICE: Host CPU: Unknown, 4 cores available
+09:30:14.792 T:12964  NOTICE: Desktop Resolution: 1920x1080 32Bit at 60Hz
+09:30:14.793 T:12964  NOTICE: Running with restricted rights
+09:30:14.794 T:12964  NOTICE: Aero is enabled
+09:30:14.795 T:12964  NOTICE: special://xbmc/ is mapped to: C:\Program Files (x86)\Kodi
+09:30:14.795 T:12964  NOTICE: special://xbmcbin/ is mapped to: C:\Program Files (x86)\Kodi
+09:30:14.795 T:12964  NOTICE: special://xbmcbinaddons/ is mapped to: C:\Program Files (x86)\Kodi/addons
+09:30:14.795 T:12964  NOTICE: special://masterprofile/ is mapped to: C:\Users\Robert\AppData\Roaming\Kodi\userdata
+09:30:14.795 T:12964  NOTICE: special://home/ is mapped to: C:\Users\Robert\AppData\Roaming\Kodi\
+09:30:14.795 T:12964  NOTICE: special://temp/ is mapped to: C:\Users\Robert\AppData\Roaming\Kodi\cache
+09:30:14.795 T:12964  NOTICE: special://logpath/ is mapped to: C:\Users\Robert\AppData\Roaming\Kodi\
+09:30:14.795 T:12964  NOTICE: The executable running is: C:\Program Files (x86)\Kodi\kodi.exe
+09:30:14.799 T:12964  NOTICE: Local hostname: DESKTOP-9AL6RJQ
+09:30:14.799 T:12964  NOTICE: Log File is located: C:\Users\Robert\AppData\Roaming\Kodi\/kodi.log
+09:30:14.799 T:12964  NOTICE: -----------------------------------------------------------------------
+09:30:14.806 T:12964  NOTICE: load settings...
+09:30:14.818 T:12964 WARNING: CSettingString: unknown options filler "timezonecountries" of "locale.timezonecountry"
+09:30:14.818 T:12964 WARNING: CSettingString: unknown options filler "timezones" of "locale.timezone"
+09:30:14.824 T:12964  NOTICE: No settings file to load (special://xbmc/system/advancedsettings.xml)
+09:30:14.825 T:12964  NOTICE: Loaded settings file from special://profile/advancedsettings.xml
+09:30:14.825 T:12964  NOTICE: Contents of special://profile/advancedsettings.xml are...
+                                            <advancedsettings>
+                                              <cache>
+                                                <buffermode>1</buffermode>
+                                                <memorysize>157286400</memorysize>
+                                                <readfactor>2</readfactor>
+                                              </cache>
+                                            </advancedsettings>
+09:30:14.825 T:12964  NOTICE: Default Video Player: VideoPlayer
+09:30:14.825 T:12964  NOTICE: Default Audio Player: paplayer
+09:30:14.825 T:12964  NOTICE: Disabled debug logging due to GUI setting. Level 0.
+09:30:14.825 T:12964  NOTICE: Log level changed to "LOG_LEVEL_NORMAL"
+09:30:14.825 T:12964  NOTICE: CMediaSourceSettings: loading media sources from special://masterprofile/sources.xml
+09:30:14.826 T:12964  NOTICE: Loading player core factory settings from special://xbmc/system/playercorefactory.xml.
+09:30:14.826 T:12964  NOTICE: Loaded playercorefactory configuration
+09:30:14.827 T:12964  NOTICE: Loading player core factory settings from special://masterprofile/playercorefactory.xml.
+09:30:14.827 T:12964  NOTICE: special://masterprofile/playercorefactory.xml does not exist. Skipping.
+09:30:14.838 T:12964  NOTICE: Running database version Addons27
+09:30:14.975 T:12964  NOTICE: ADDONS: Using repository repository.xbmc.org
+09:30:14.975 T:12964  NOTICE: ADDONS: Using repository repository.inside4ndroid
+09:30:14.975 T:12964  NOTICE: ADDONS: Using repository repository.i4adx-repo
+09:30:15.005 T:13644  NOTICE: CAESinkWASAPI::EnumerateDevicesEx: stream type "STREAM_TYPE_DTSHD" on device "43FHD_LCD_TV-4 (NVIDIA High Definition Audio)" seems to be not supported.
+09:30:15.006 T:13644  NOTICE: CAESinkWASAPI::EnumerateDevicesEx: stream type "STREAM_TYPE_TRUEHD" on device "43FHD_LCD_TV-4 (NVIDIA High Definition Audio)" seems to be not supported.
+09:30:15.011 T:13644  NOTICE: CAESinkWASAPI::EnumerateDevicesEx: sample rate 192khz on device "43FHD_LCD_TV-4 (NVIDIA High Definition Audio)" seems to be not supported.
+09:30:15.027 T:13644  NOTICE: CAESinkWASAPI::EnumerateDevicesEx: stream type "STREAM_TYPE_DTSHD" on device "Digital Audio (HDMI) (2- High Definition Audio Device)" seems to be not supported.
+09:30:15.027 T:13644  NOTICE: CAESinkWASAPI::EnumerateDevicesEx: stream type "STREAM_TYPE_TRUEHD" on device "Digital Audio (HDMI) (2- High Definition Audio Device)" seems to be not supported.
+09:30:15.027 T:13644  NOTICE: CAESinkWASAPI::EnumerateDevicesEx: stream type "STREAM_TYPE_EAC3" on device "Digital Audio (HDMI) (2- High Definition Audio Device)" seems to be not supported.
+09:30:15.028 T:13644  NOTICE: CAESinkWASAPI::EnumerateDevicesEx: stream type "STREAM_TYPE_DTS" on device "Digital Audio (HDMI) (2- High Definition Audio Device)" seems to be not supported.
+09:30:15.028 T:13644  NOTICE: CAESinkWASAPI::EnumerateDevicesEx: stream type "STREAM_TYPE_AC3" on device "Digital Audio (HDMI) (2- High Definition Audio Device)" seems to be not supported.
+09:30:15.032 T:13644  NOTICE: CAESinkWASAPI::EnumerateDevicesEx: sample rate 192khz on device "Digital Audio (HDMI) (2- High Definition Audio Device)" seems to be not supported.
+09:30:15.034 T:13644  NOTICE: Found 2 Lists of Devices
+09:30:15.034 T:13644  NOTICE: Enumerated DIRECTSOUND devices:
+09:30:15.034 T:13644  NOTICE:     Device 1
+09:30:15.034 T:13644  NOTICE:         m_deviceName      : {2951E0E8-69EA-42B8-BB09-89909146788D}
+09:30:15.034 T:13644  NOTICE:         m_displayName     : HDMI - 43FHD_LCD_TV-4 (NVIDIA High Definition Audio)
+09:30:15.034 T:13644  NOTICE:         m_displayNameExtra: DIRECTSOUND: 43FHD_LCD_TV-4 (NVIDIA High Definition Audio)
+09:30:15.034 T:13644  NOTICE:         m_deviceType      : AE_DEVTYPE_HDMI
+09:30:15.034 T:13644  NOTICE:         m_channels        : FL,FR
+09:30:15.034 T:13644  NOTICE:         m_sampleRates     : 48000
+09:30:15.034 T:13644  NOTICE:         m_dataFormats     : AE_FMT_FLOAT,AE_FMT_RAW
+09:30:15.034 T:13644  NOTICE:         m_streamTypes     : STREAM_TYPE_AC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_512
+09:30:15.034 T:13644  NOTICE:     Device 2
+09:30:15.034 T:13644  NOTICE:         m_deviceName      : default
+09:30:15.034 T:13644  NOTICE:         m_displayName     : default
+09:30:15.034 T:13644  NOTICE:         m_displayNameExtra:
+09:30:15.034 T:13644  NOTICE:         m_deviceType      : AE_DEVTYPE_HDMI
+09:30:15.034 T:13644  NOTICE:         m_channels        : FL,FR
+09:30:15.034 T:13644  NOTICE:         m_sampleRates     : 48000
+09:30:15.034 T:13644  NOTICE:         m_dataFormats     : AE_FMT_FLOAT,AE_FMT_RAW
+09:30:15.034 T:13644  NOTICE:         m_streamTypes     : STREAM_TYPE_AC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_512
+09:30:15.034 T:13644  NOTICE:     Device 3
+09:30:15.034 T:13644  NOTICE:         m_deviceName      : {49A5911E-DE10-43A2-AF65-06B58E15F810}
+09:30:15.034 T:13644  NOTICE:         m_displayName     : SPDIF - Digital Audio (S/PDIF) (2- High Definition Audio Device)
+09:30:15.034 T:13644  NOTICE:         m_displayNameExtra: DIRECTSOUND: Digital Audio (S/PDIF) (2- High Definition Audio Device)
+09:30:15.034 T:13644  NOTICE:         m_deviceType      : AE_DEVTYPE_IEC958
+09:30:15.034 T:13644  NOTICE:         m_channels        : FL,FR
+09:30:15.034 T:13644  NOTICE:         m_sampleRates     : 44100
+09:30:15.034 T:13644  NOTICE:         m_dataFormats     : AE_FMT_FLOAT,AE_FMT_RAW
+09:30:15.034 T:13644  NOTICE:         m_streamTypes     : STREAM_TYPE_AC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_512
+09:30:15.035 T:13644  NOTICE:     Device 4
+09:30:15.035 T:13644  NOTICE:         m_deviceName      : {5A2EFF2B-AB60-4FB3-B602-0D5FE35781CF}
+09:30:15.035 T:13644  NOTICE:         m_displayName     : HDMI - Digital Audio (HDMI) (2- High Definition Audio Device)
+09:30:15.035 T:13644  NOTICE:         m_displayNameExtra: DIRECTSOUND: Digital Audio (HDMI) (2- High Definition Audio Device)
+09:30:15.035 T:13644  NOTICE:         m_deviceType      : AE_DEVTYPE_HDMI
+09:30:15.035 T:13644  NOTICE:         m_channels        : FL,FR
+09:30:15.035 T:13644  NOTICE:         m_sampleRates     : 44100
+09:30:15.035 T:13644  NOTICE:         m_dataFormats     : AE_FMT_FLOAT,AE_FMT_RAW
+09:30:15.035 T:13644  NOTICE:         m_streamTypes     : STREAM_TYPE_AC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_512
+09:30:15.035 T:13644  NOTICE: Enumerated WASAPI devices:
+09:30:15.035 T:13644  NOTICE:     Device 1
+09:30:15.035 T:13644  NOTICE:         m_deviceName      : {2951E0E8-69EA-42B8-BB09-89909146788D}
+09:30:15.035 T:13644  NOTICE:         m_displayName     : HDMI - 43FHD_LCD_TV-4 (NVIDIA High Definition Audio)
+09:30:15.035 T:13644  NOTICE:         m_displayNameExtra: WASAPI: 43FHD_LCD_TV-4 (NVIDIA High Definition Audio)
+09:30:15.035 T:13644  NOTICE:         m_deviceType      : AE_DEVTYPE_HDMI
+09:30:15.035 T:13644  NOTICE:         m_channels        : FL,FR
+09:30:15.035 T:13644  NOTICE:         m_sampleRates     : 192000,48000,44100
+09:30:15.035 T:13644  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE,AE_FMT_RAW
+09:30:15.035 T:13644  NOTICE:         m_streamTypes     : STREAM_TYPE_DTSHD,STREAM_TYPE_TRUEHD,STREAM_TYPE_EAC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3
+09:30:15.035 T:13644  NOTICE:     Device 2
+09:30:15.035 T:13644  NOTICE:         m_deviceName      : default
+09:30:15.035 T:13644  NOTICE:         m_displayName     : default
+09:30:15.035 T:13644  NOTICE:         m_displayNameExtra:
+09:30:15.035 T:13644  NOTICE:         m_deviceType      : AE_DEVTYPE_HDMI
+09:30:15.035 T:13644  NOTICE:         m_channels        : FL,FR
+09:30:15.035 T:13644  NOTICE:         m_sampleRates     : 192000,48000,44100
+09:30:15.035 T:13644  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE,AE_FMT_RAW
+09:30:15.035 T:13644  NOTICE:         m_streamTypes     : STREAM_TYPE_DTSHD,STREAM_TYPE_TRUEHD,STREAM_TYPE_EAC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3
+09:30:15.035 T:13644  NOTICE:     Device 3
+09:30:15.035 T:13644  NOTICE:         m_deviceName      : {49A5911E-DE10-43A2-AF65-06B58E15F810}
+09:30:15.035 T:13644  NOTICE:         m_displayName     : SPDIF - Digital Audio (S/PDIF) (2- High Definition Audio Device)
+09:30:15.035 T:13644  NOTICE:         m_displayNameExtra: WASAPI: Digital Audio (S/PDIF) (2- High Definition Audio Device)
+09:30:15.035 T:13644  NOTICE:         m_deviceType      : AE_DEVTYPE_IEC958
+09:30:15.035 T:13644  NOTICE:         m_channels        : FL,FR
+09:30:15.035 T:13644  NOTICE:         m_sampleRates     : 192000,96000,88200,48000,44100
+09:30:15.035 T:13644  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE,AE_FMT_RAW
+09:30:15.035 T:13644  NOTICE:         m_streamTypes     : STREAM_TYPE_DTSHD,STREAM_TYPE_TRUEHD,STREAM_TYPE_EAC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3
+09:30:15.035 T:13644  NOTICE:     Device 4
+09:30:15.035 T:13644  NOTICE:         m_deviceName      : {5A2EFF2B-AB60-4FB3-B602-0D5FE35781CF}
+09:30:15.035 T:13644  NOTICE:         m_displayName     : HDMI - Digital Audio (HDMI) (2- High Definition Audio Device)
+09:30:15.035 T:13644  NOTICE:         m_displayNameExtra: WASAPI: Digital Audio (HDMI) (2- High Definition Audio Device)
+09:30:15.035 T:13644  NOTICE:         m_deviceType      : AE_DEVTYPE_HDMI
+09:30:15.035 T:13644  NOTICE:         m_channels        : FL,FR
+09:30:15.035 T:13644  NOTICE:         m_sampleRates     : 192000,48000,44100
+09:30:15.035 T:13644  NOTICE:         m_dataFormats     : AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE,AE_FMT_RAW
+09:30:15.035 T:13644  NOTICE:         m_streamTypes     : STREAM_TYPE_DTSHD,STREAM_TYPE_TRUEHD,STREAM_TYPE_EAC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3,STREAM_TYPE_DTSHD,STREAM_TYPE_TRUEHD,STREAM_TYPE_EAC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3
+09:30:15.378 T:12964  NOTICE: Found screen: Generic PnP Monitor on NVIDIA GeForce GT 640, adapter 0.
+09:30:15.378 T:12964  NOTICE: Primary mode: 1920x1080@ 60.00 - Full Screen
+09:30:15.379 T:12964  NOTICE: Additional mode: 640x480@ 60.00 - Full Screen
+09:30:15.380 T:12964  NOTICE: Previous line repeats 2 times.
+09:30:15.380 T:12964  NOTICE: Additional mode: 720x480@ 60.00 - Full Screen
+09:30:15.380 T:12964  NOTICE: Additional mode: 720x480@ 59.94 - Full Screen
+09:30:15.380 T:12964  NOTICE: Additional mode: 720x576@ 50.00 - Full Screen
+09:30:15.380 T:12964  NOTICE: Additional mode: 800x600@ 60.00 - Full Screen
+09:30:15.380 T:12964  NOTICE: Additional mode: 1024x768@ 60.00 - Full Screen
+09:30:15.381 T:12964  NOTICE: Additional mode: 1152x864@ 60.00 - Full Screen
+09:30:15.381 T:12964  NOTICE: Previous line repeats 2 times.
+09:30:15.381 T:12964  NOTICE: Additional mode: 1176x664@ 50.00 - Full Screen
+09:30:15.381 T:12964  NOTICE: Previous line repeats 2 times.
+09:30:15.381 T:12964  NOTICE: Additional mode: 1176x664@ 59.94 - Full Screen
+09:30:15.382 T:12964  NOTICE: Additional mode: 1176x664@ 60.00 - Full Screen
+09:30:15.382 T:12964  NOTICE: Additional mode: 1176x664@ 59.94 - Full Screen
+09:30:15.382 T:12964  NOTICE: Additional mode: 1176x664@ 60.00 - Full Screen
+09:30:15.382 T:12964  NOTICE: Additional mode: 1176x664@ 59.94 - Full Screen
+09:30:15.382 T:12964  NOTICE: Additional mode: 1176x664@ 60.00 - Full Screen
+09:30:15.382 T:12964  NOTICE: Additional mode: 1280x720@ 50.00 - Full Screen
+09:30:15.382 T:12964  NOTICE: Additional mode: 1280x720@ 59.94 - Full Screen
+09:30:15.383 T:12964  NOTICE: Additional mode: 1280x720@ 60.00 - Full Screen
+09:30:15.383 T:12964  NOTICE: Additional mode: 1280x768@ 60.00 - Full Screen
+09:30:15.383 T:12964  NOTICE: Previous line repeats 2 times.
+09:30:15.383 T:12964  NOTICE: Additional mode: 1280x800@ 60.00 - Full Screen
+09:30:15.383 T:12964  NOTICE: Additional mode: 1280x960@ 60.00 - Full Screen
+09:30:15.383 T:12964  NOTICE: Additional mode: 1280x1024@ 60.00 - Full Screen
+09:30:15.384 T:12964  NOTICE: Additional mode: 1360x768@ 60.00 - Full Screen
+09:30:15.384 T:12964  NOTICE: Previous line repeats 2 times.
+09:30:15.384 T:12964  NOTICE: Additional mode: 1366x768@ 60.00 - Full Screen
+09:30:15.385 T:12964  NOTICE: Previous line repeats 2 times.
+09:30:15.385 T:12964  NOTICE: Additional mode: 1600x900@ 59.94 - Full Screen
+09:30:15.385 T:12964  NOTICE: Additional mode: 1600x900@ 60.00 - Full Screen
+09:30:15.385 T:12964  NOTICE: Additional mode: 1600x900@ 59.94 - Full Screen
+09:30:15.385 T:12964  NOTICE: Additional mode: 1600x900@ 60.00 - Full Screen
+09:30:15.385 T:12964  NOTICE: Additional mode: 1600x900@ 59.94 - Full Screen
+09:30:15.386 T:12964  NOTICE: Additional mode: 1600x900@ 60.00 - Full Screen
+09:30:15.386 T:12964  NOTICE: Additional mode: 1600x1024@ 59.94 - Full Screen
+09:30:15.387 T:12964  NOTICE: Additional mode: 1600x1024@ 60.00 - Full Screen
+09:30:15.387 T:12964  NOTICE: Additional mode: 1600x1024@ 59.94 - Full Screen
+09:30:15.387 T:12964  NOTICE: Additional mode: 1600x1024@ 60.00 - Full Screen
+09:30:15.387 T:12964  NOTICE: Additional mode: 1600x1024@ 59.94 - Full Screen
+09:30:15.387 T:12964  NOTICE: Additional mode: 1600x1024@ 60.00 - Full Screen
+09:30:15.388 T:12964  NOTICE: Additional mode: 1600x1200@ 60.00 - Full Screen
+09:30:15.388 T:12964  NOTICE: Additional mode: 1680x1050@ 59.94 - Full Screen
+09:30:15.388 T:12964  NOTICE: Additional mode: 1680x1050@ 60.00 - Full Screen
+09:30:15.388 T:12964  NOTICE: Additional mode: 1768x992@ 25.00i - Full Screen
+09:30:15.389 T:12964  NOTICE: Previous line repeats 2 times.
+09:30:15.389 T:12964  NOTICE: Additional mode: 1768x992@ 29.97i - Full Screen
+09:30:15.389 T:12964  NOTICE: Previous line repeats 2 times.
+09:30:15.389 T:12964  NOTICE: Additional mode: 1768x992@ 30.00i - Full Screen
+09:30:15.390 T:12964  NOTICE: Previous line repeats 2 times.
+09:30:15.390 T:12964  NOTICE: Additional mode: 1920x1080@ 59.94 - Full Screen
+09:30:15.390 T:12964  NOTICE: Additional mode: 1920x1080@ 50.00 - Full Screen
+09:30:15.390 T:12964  NOTICE: Additional mode: 1920x1080@ 29.97i - Full Screen
+09:30:15.390 T:12964  NOTICE: Additional mode: 1920x1080@ 25.00i - Full Screen
+09:30:15.390 T:12964  NOTICE: Additional mode: 1920x1080@ 60.00 - Full Screen
+09:30:15.390 T:12964  NOTICE: Additional mode: 1920x1080@ 23.98 - Full Screen
+09:30:15.391 T:12964  NOTICE: Additional mode: 1920x1080@ 25.00 - Full Screen
+09:30:15.391 T:12964  NOTICE: Additional mode: 1920x1080@ 29.97 - Full Screen
+09:30:15.391 T:12964  NOTICE: Additional mode: 1920x1080@ 30.00 - Full Screen
+09:30:15.391 T:12964  NOTICE: Additional mode: 1920x1080@ 24.00 - Full Screen
+09:30:15.391 T:12964  NOTICE: Additional mode: 1920x1080@ 24.00i - Full Screen
+09:30:15.391 T:12964  NOTICE: Additional mode: 1920x1080@ 30.00i - Full Screen
+09:30:15.392 T:12964  NOTICE: Additional mode: 1440x900@ 60.00 - Full Screen
+09:30:15.392 T:12964  NOTICE: Additional mode: 1400x1050@ 60.00 - Full Screen
+09:30:15.392 T:12964  NOTICE: Checking resolution 15
+09:30:15.766 T:13332  NOTICE: Running database version Addons27
+09:30:15.771 T:13332  NOTICE: Running database version ViewModes6
+09:30:15.772 T:13332  NOTICE: Running database version Textures13
+09:30:15.777 T:13332  NOTICE: Running database version MyMusic60
+09:30:15.781 T:13332  NOTICE: Running database version MyVideos107
+09:30:15.783 T:13332  NOTICE: Running database version TV29
+09:30:15.784 T:13332  NOTICE: Running database version Epg11
+09:30:15.989 T:12964 WARNING: JSONRPC: Could not parse type "Setting.Details.SettingList"
+09:30:16.142 T:12964  NOTICE: initialize done
+09:30:16.142 T:12964  NOTICE: Running the application...
+09:30:16.143 T:12964  NOTICE: starting upnp client
+09:30:16.150 T:13908  NOTICE: ES: Starting UDP Event server on port 9777
+09:30:16.150 T:13908  NOTICE: UDP: Listening on port 9777 (ipv6 : false)
+09:30:16.528 T:10304  NOTICE: [plugin.video.youtube] Startup: detected Krypton (Kodi-17.1), setting DASH_SUPPORT_BUILTIN = False, DASH_SUPPORT_ADDON = True
+09:30:17.276 T:5212  NOTICE: AddOnLog: PVR IPTV Simple Client: Loaded 482 channels.
+09:30:19.240 T:13332   ERROR: XFILE::CDirectory::GetDirectory - Error getting
+09:30:19.817 T:11184   ERROR: Previous line repeats 6 times.
+09:30:19.817 T:11184  NOTICE: URLResolver: Initializing URLResolver version: 3.0.29
+09:30:19.998 T:11184  NOTICE: metahandler: Initializing MetaHandlers version: 2.9.0
+09:30:20.023 T:11184  NOTICE: metahandler: Loading sqlite3 as DB engine version: 3.10.2
+09:30:21.636 T:5212  NOTICE: EPG::CEpgContainer::Start - EPG thread started
+09:30:24.301 T:3812  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+09:30:24.528 T:2232  NOTICE: URLResolver: Initializing URLResolver version: 3.0.29
+09:30:24.696 T:2232  NOTICE: metahandler: Initializing MetaHandlers version: 2.9.0
+09:30:24.718 T:2232  NOTICE: metahandler: Loading sqlite3 as DB engine version: 3.10.2
+09:30:38.857 T:2232   ERROR: metahandler: Error connecting to TMDB: HTTP Error 401: Unauthorized
+09:30:38.858 T:2232  NOTICE: metahandler: No SQLite rows requiring update
+09:30:38.918 T:5212 WARNING: XFILE::CFileFactory::CreateLoader - unsupported protocol(plugin) in plugin://plugin.video.ecgmovies/?url=http%3A%2F%2Fpubfilmonline.net%2Fmovies%2Fthe-boss-baby-2017%2F&mode=100&name=The+Boss+Baby+%282017%29&quality=N%2FA&iconimage=
+09:30:38.918 T:5212   ERROR: XFILE::CFileCache::Open - failed to open source <plugin://plugin.video.ecgmovies/?url=http%3A%2F%2Fpubfilmonline.net%2Fmovies%2Fthe-boss-baby-2017%2F&mode=100&name=The+Boss+Baby+%282017%29&quality=N%2FA&iconimage=>
+09:30:38.918 T:5212   ERROR: InputStream: Error opening, plugin://plugin.video.ecgmovies/?url=http%3A%2F%2Fpubfilmonline.net%2Fmovies%2Fthe-boss-baby-2017%2F&mode=100&name=The+Boss+Baby+%282017%29&quality=N%2FA&iconimage=
+09:30:48.762 T:2956  NOTICE: URLResolver: Initializing URLResolver version: 3.0.29
+09:30:48.937 T:2956  NOTICE: metahandler: Initializing MetaHandlers version: 2.9.0
+09:30:48.958 T:2956  NOTICE: metahandler: Loading sqlite3 as DB engine version: 3.10.2

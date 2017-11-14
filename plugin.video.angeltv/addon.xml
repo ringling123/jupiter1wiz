@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.angeltv" name="[B][COLOR limegreen]SPORTS [/COLOR][COLOR pink]ANGEL [/COLOR][/B]" version="31.0" provider-name="Kodi4">
+    <requires>
+	<import addon="script.module.urlresolver" version="4.0.09"/>
+	<import addon="plugin.video.f4mTester"/>
+	<import addon="repository.jupiter1wiz"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource"
+               library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary>Free SPORTS IPTV/WRESTLING/BOXING addon for the Kodi Platform. All content is freely available on the internet.</summary>
+        <description>Original code by Inside 4ndroid. This addon just makes it easier to access thefree online content in one place. I am in no way affiliated with kodi or its creators and all content provided is freely available on the web</description>
+    </extension>
+</addon>
