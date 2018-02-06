@@ -46,7 +46,7 @@ ICONLOGIN      = 'http://classicmoviesez.com/config/images/login.png'
 ICONCONTACT    = 'http://classicmoviesez.com/config/images/contact.png'
 ICONSETTINGS   = 'http://classicmoviesez.com/config/images/setting.png'
 # Hide the ====== seperators 'Yes' or 'No'
-HIDESPACERS    = 'No'
+HIDESPACERS    = 'Yes'
 # Character used in seperator
 SPACER         = '-'
 
