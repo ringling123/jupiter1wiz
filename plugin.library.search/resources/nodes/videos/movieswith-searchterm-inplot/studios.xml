@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<node order="60" type="filter">
+	<label>20388</label>
+	<icon>DefaultStudios.png</icon>
+	<content>movies</content>
+	<group>studios</group>
+	<rule field="plot" operator="contains">
+		<value>::SEARCHTERM::</value>
+	</rule>
+</node>

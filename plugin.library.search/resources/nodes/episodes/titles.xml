@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<node order="90" type="filter" visible="Library.HasContent(TVShows)">
+	<label>369</label>
+	<content>episodes</content>
+	<rule field="::SEARCHTYPE::" operator="contains">
+		<value>::SEARCHTERM::</value>
+	</rule>
+</node>

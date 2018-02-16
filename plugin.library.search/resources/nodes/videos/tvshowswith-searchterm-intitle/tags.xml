@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<node order="60" type="filter">
+	<label>20459</label>
+	<icon>DefaultTags.png</icon>
+	<content>tvshows</content>
+	<group>tags</group>
+	<rule field="title" operator="contains">
+		<value>::SEARCHTERM::</value>
+	</rule>
+</node>

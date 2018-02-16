@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.kodination" name="KodiNation Repo" version="1.0.1" provider-name="KodiNation">
+	<extension point="xbmc.addon.repository" name="KodiNation Repo">
+		<info compressed="false">http://repo.kodination.co.uk/.repo/repofiles/addons.xml</info>
+		<checksum>http://repo.kodination.co.uk/.repo/repofiles/addons.xml.md5</checksum>
+		<datadir zip="true">http://repo.kodination.co.uk/.repo/repofiles</datadir>
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
+        </dir>
+    <dir>
+           <info compressed="false">http://www.miniaturelife.org/test/.repo/repofiles/addons.xml</info>
+		<checksum>http://www.miniaturelife.org/test/.repo/repofiles/addons.xml.md5</checksum>
+		<datadir zip="true">http://www.miniaturelife.org/test/.repo/repofiles/</datadir>
+    </dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">KodiNation Repo</summary>
+		<description lang="en_GB">The home of the KodiNation Plugins.</description>
+		<disclaimer lang="en_GB"></disclaimer>
+	<platform>all</platform>
+	<language>en</language>
+	<license>GNU GENERAL PUBLIC LICENSE Version 2</license>
+	<email></email>
+	</extension>
+</addon>

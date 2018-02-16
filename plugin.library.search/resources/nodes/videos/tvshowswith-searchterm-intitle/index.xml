@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<node order="50" visible="Library.HasContent(TVShows)">
+	<label>$LABEL[30001,::SEARCHTERM::,30010]</label>
+	<icon>DefaultTVShows.png</icon>
+</node>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<node order="50" type="filter">
+	<label>132</label>
+	<icon>DefaultMusicAlbums.png</icon>
+	<content>musicvideos</content>
+	<group>albums</group>
+	<rule field="::SEARCHTYPE::" operator="contains">
+		<value>::SEARCHTERM::</value>
+	</rule>
+</node>

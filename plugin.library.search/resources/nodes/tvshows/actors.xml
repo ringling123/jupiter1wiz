@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<node order="40" type="filter">
+	<label>344</label>
+	<icon>DefaultActor.png</icon>
+	<content>tvshows</content>
+	<group>actors</group>
+	<rule field="::SEARCHTYPE::" operator="contains">
+		<value>::SEARCHTERM::</value>
+	</rule>
+</node>

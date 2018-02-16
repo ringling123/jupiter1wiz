@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<node order="20" type="filter" visible="Library.HasContent(Music)">
+	<label>133</label>
+	<icon>DefaultMusicArtists.png</icon>
+	<content>artists</content>
+	<rule field="::SEARCHTYPE::" operator="contains">
+		<value>::SEARCHTERM::</value>
+	</rule>
+</node>

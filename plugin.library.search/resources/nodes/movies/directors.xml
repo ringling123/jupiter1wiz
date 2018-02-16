@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<node order="50" type="filter">
+	<label>20348</label>
+	<icon>DefaultDirector.png</icon>
+	<content>movies</content>
+	<group>directors</group>
+	<rule field="::SEARCHTYPE::" operator="contains">
+		<value>::SEARCHTERM::</value>
+	</rule>
+</node>

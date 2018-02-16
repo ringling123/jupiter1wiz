@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<node order="70" type="filter" visible="Library.HasContent(MovieSets)">
+	<label>20434</label>
+	<icon>DefaultSets.png</icon>
+	<content>movies</content>
+	<group>sets</group>
+	<rule field="::SEARCHTYPE::" operator="contains">
+		<value>::SEARCHTERM::</value>
+	</rule>
+</node>
