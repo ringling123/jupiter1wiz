@@ -7,19 +7,19 @@ ADDON_ID       = xbmcaddon.Addon().getAddonInfo('id')
 ADDONTITLE     = 'JupiterOne Wizard'
 EXCLUDES       = [ADDON_ID, 'repository.jupiter1wiz', 'plugin.program.jupiteronewizard']
 # Text File with build info in it.
-BUILDFILE      = 'http://classicmoviesez.com/config/texts/wizard.txt'
+BUILDFILE      = 'http://j1wizard.net/config/texts/wizard.txt'
 # How often you would list it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK    = 0
 # Text File with apk info in it.
-APKFILE        = 'http://classicmoviesez.com/config/texts/apk.txt'
+APKFILE        = 'http://j1wizard.net/config/texts/apk.txt'
 # Text File with Youtube Videos urls.  Leave as 'http://' to ignore
 YOUTUBETITLE   = ''
 YOUTUBEFILE    = 'http://'
 # Text File for addon installer.  Leave as 'http://' to ignore
 ADDONFILE      = 'http://'
 # Text File for advanced settings.  Leave as 'http://' to ignore
-ADVANCEDFILE   = 'http://classicmoviesez.com/config/texts/advanced.txt'
+ADVANCEDFILE   = 'http://'
 
 # Dont need to edit just here for icons stored locally
 PATH           = xbmcaddon.Addon().getAddonInfo('path')
@@ -34,17 +34,17 @@ ART            = os.path.join(PATH, 'resources', 'art')
 # Example:  ICONMAINT     = os.path.join(ART, 'mainticon.png')
 #           ICONSETTINGS  = 'http://aftermathwizard.net/repo/wizard/settings.png'
 # Leave as http:// for default icon
-ICONBUILDS     = 'http://classicmoviesez.com/config/images/builds.png'
-ICONMAINT      = 'http://classicmoviesez.com/config/images/maintenance.png'
-ICONAPK        = 'http://classicmoviesez.com/config/images/apk.png'
-ICONADDONS     = 'http://classicmoviesez.com/config/images/addons.png'
-ICONYOUTUBE    = 'http://classicmoviesez.com/config/images/youtube.png'
-ICONSAVE       = 'http://classicmoviesez.com/config/images/save.png'
-ICONTRAKT      = 'http://classicmoviesez.com/config/images/trakt.png'
-ICONREAL       = 'http://classicmoviesez.com/config/images/debrid.png'
-ICONLOGIN      = 'http://classicmoviesez.com/config/images/login.png'
-ICONCONTACT    = 'http://classicmoviesez.com/config/images/contact.png'
-ICONSETTINGS   = 'http://classicmoviesez.com/config/images/setting.png'
+ICONBUILDS     = 'http://'
+ICONMAINT      = 'http://'
+ICONAPK        = 'http://'
+ICONADDONS     = 'http://'
+ICONYOUTUBE    = 'http://'
+ICONSAVE       = 'http://'
+ICONTRAKT      = 'http://'
+ICONREAL       = 'http://'
+ICONLOGIN      = 'http://'
+ICONCONTACT    = 'http://'
+ICONSETTINGS   = 'http://'
 # Hide the ====== seperators 'Yes' or 'No'
 HIDESPACERS    = 'Yes'
 # Character used in seperator
@@ -103,12 +103,12 @@ REPOZIPURL     = 'https://raw.githubusercontent.com/ringling123/jupiter1wiz/mast
 # Enable Notification screen Yes or No
 ENABLE         = 'Yes'
 # Url to notification file
-NOTIFICATION   = 'http://classicmoviesez.com/config/texts/notify.txt'
+NOTIFICATION   = 'http://j1wizard.net/config/texts/notify.txt'
 # Use either 'Text' or 'Image'
 HEADERTYPE     = 'Image'
 HEADERMESSAGE  = 'JupiterOne Notifications'
 # url to image if using Image 424x180
 HEADERIMAGE    = ''
 # Background for Notification Window
-BACKGROUND     = 'http://classicmoviesez.com/config/images/notifyback.jpg'
+BACKGROUND     = 'http://j1wizard.net/config/images/notifyback.jpg'
 #########################################################
