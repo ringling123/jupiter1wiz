@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<node order="20" visible="Library.HasContent(MusicVideos)">
-	<label>Library Search</label>
-	<icon>DefaultMusicVideos.png</icon>
-</node>

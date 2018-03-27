@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<node order="60" visible="Library.HasContent(TVShows)">
-	<label>::SEARCHLABEL::</label>
-	<icon>DefaultTVShows.png</icon>
-</node>

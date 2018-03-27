@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<node order="30" visible="Library.HasContent(Movies)">
-	<label>$LABEL[30000,::SEARCHTERM::,30012]</label>
-	<icon>DefaultMovies.png</icon>
-</node>

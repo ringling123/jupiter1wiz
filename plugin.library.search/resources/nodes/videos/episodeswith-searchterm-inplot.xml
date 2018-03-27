@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<node order="90" type="filter" visible="Library.HasContent(TVShows)">
-	<label>$LABEL[30002,::SEARCHTERM::,30011]</label>
-	<content>episodes</content>
-	<rule field="plot" operator="contains">
-		<value>::SEARCHTERM::</value>
-	</rule>
-</node>
